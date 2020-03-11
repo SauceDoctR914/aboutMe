@@ -1,6 +1,5 @@
 # portfolio-gavin
 
-> portfolio site for gavin
 
 ## Build Setup
 
