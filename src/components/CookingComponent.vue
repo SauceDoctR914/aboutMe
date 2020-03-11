@@ -52,43 +52,30 @@ export default {
       images: [
         agnolotti,
         avocado,
-        burgerBacon,
-        burgerNfries,
         carbonara,
         cauliflower,
-        sausagesNPeas2,
-        heartRav,
         guac,
         gambas,
-        chickenBalsamico,
         mac,
-        vodkaSauce,
         sandwich,
-        shortRibPot,
-        israeliSalad,
-        gnocciNorma,
-        sausagePeasPot,
         spread,
-        vodkaPapardelle,
-        shortRib,
-        handRav
       ],
     }
   },
   methods: {
-    setImageSrc(func) {
+    setImagesSrc(func) {
       const self = this
-      func().then((src) => { self.imgSrc.push(src.default)
+      func().then((src) => { 
+        self.imgsrc.push(src.default)
        })
     },
     createImagesArray(images, func){
-     return images.map(funcItem => func(funcItem))
+     return images.map(func)
     },
 
   },
   created(){
-    this.createImagesArray(this.images, this.setImageSrc)
-    console.log(this.images, 'gavub', this.imgSrc)
+    this.createImagesArray(this.images, this.setImagesSrc)
   }
 }
 </script>
