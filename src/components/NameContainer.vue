@@ -28,8 +28,7 @@
   },
     methods: 
     {
-      animateLetters(){
-      }
+    
     },
     mounted(){     
       $(".name-letter").hover(function(){

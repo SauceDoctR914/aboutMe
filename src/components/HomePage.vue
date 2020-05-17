@@ -1,14 +1,17 @@
 <template>
   <div class="home-container">
     <name-container/>
+    <ul>
+      <li v-for="(src, index) in contactSrc" :key="index" ><img :src="src"></li>
+      </ul>
     <div class="content-container">
       <ul class="links-list">
         <li class="list-item"><a href="#bio">Bio</a></li>
-        <li class="list-item"><a href="">Projects</a></li>
-        <li class="list-item"><a href="">Cooking With G</a></li>
+        <li class="list-item"><router-link to="/projects">Projects</router-link></li>
+        <li class="list-item"><router-link to="/cooking">Cooking With F</router-link></li>
         <li class="list-item"><a href="">Contact Form</a></li>
       </ul>
-      <cooking-component/>
+      <email-form/>
       <about-me/>
       <p></p>
     </div>
@@ -16,14 +19,14 @@
 </template>
 
 <script>
-
+const EmailForm = () => import('./EmailForm.vue')
 const CookingComponent = () => import('./CookingComponent.vue')
 const NameContainer = () => import('./NameContainer.vue')
 const AboutMe = () => import('./AboutMe.vue')
 export default {
   name: 'HomePage',
   components: {
-    NameContainer, AboutMe, CookingComponent
+    NameContainer, AboutMe, CookingComponent, EmailForm
   },
   data () {
     return {
@@ -46,6 +49,7 @@ body {
   flex-direction: column;
   text-align: left;
   justify-content: space-between;
+  max-width: 6rem;
   @media only screen and (min-width: 700px){
     transform: translateX(396px);
   }
