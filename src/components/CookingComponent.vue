@@ -23,7 +23,7 @@ const carbonara = () => import('../assets/food/carbonara.jpg')
 const cauliflower = () => import('../assets/food/cauliflower.jpg')
 const chickenBalsamico = () => import('../assets/food/chickenBalsamico.jpg')
 const gambas = () => import('../assets/food/gambas.jpg')
-const gnocciNorma = () => import('../assets/food/agnolotti.jpg')
+const gnocciNorma = () => import('../assets/food/gnoccinorma.jpg')
 const guac = () => import('../assets/food/guac.jpg')
 const heartRav = () => import('../assets/food/heartrav.jpg')
 const israeliSalad = () => import('../assets/food/israelisalad.jpg')
@@ -52,13 +52,24 @@ export default {
       images: [
         agnolotti,
         avocado,
-        carbonara,
+        israeliSalad,
+        spread,
+        shortRib,
+        scampi,
+        handRav,
+        heartRav,
         cauliflower,
+        carbonara,
+        chickenBalsamico,
         guac,
+        gnocciNorma,
         gambas,
         mac,
         sandwich,
-        spread,
+        shortribPot,
+        vodkaGnocchi,
+        vodkaSauce,
+        sausagesNPeas2
       ],
     }
   },
@@ -66,7 +77,7 @@ export default {
     setImagesSrc(func) {
       const self = this
       func().then((src) => { 
-        self.imgsrc.push(src.default)
+        self.imgSrc.push(src.default)
        })
     },
     createImagesArray(images, func){
@@ -80,14 +91,29 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h1, h2 {
   font-weight: normal;
 }
+.content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
 ul {
   list-style-type: none;
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(400px,1fr));
+  grid-auto-rows: 420px;
+  max-width: 960px;
   padding: 0;
+}
+img {
+  max-width: 300px;
+  height: auto;
+  object-fit: contain;
 }
 li {
   display: inline-block;
