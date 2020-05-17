@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/vodkagnocchi.jpg"],"names":[],"mappings":"0FAAA,OAAe,cAA0B","file":"24.build.js","sourcesContent":["export default __webpack_public_path__ + \"vodkagnocchi.jpg?2fa141382de524ed2b3becd4cf12a986\";"],"sourceRoot":""}

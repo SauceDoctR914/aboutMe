@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/burgerbacon.jpg"],"names":[],"mappings":"yFAAA,OAAe,cAA0B","file":"8.build.js","sourcesContent":["export default __webpack_public_path__ + \"burgerbacon.jpg?9ace5f0f4d385bb810559e71ca25e623\";"],"sourceRoot":""}

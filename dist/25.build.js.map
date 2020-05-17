@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/vodkapapardelle.jpg"],"names":[],"mappings":"0FAAA,OAAe,cAA0B","file":"25.build.js","sourcesContent":["export default __webpack_public_path__ + \"vodkapapardelle.jpg?21616dc45fde97185a4c4632bd9c169e\";"],"sourceRoot":""}

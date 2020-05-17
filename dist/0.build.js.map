@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/sausagenpeas.jpg"],"names":[],"mappings":"yFAAA,OAAe,cAA0B","file":"0.build.js","sourcesContent":["export default __webpack_public_path__ + \"sausagenpeas.jpg?367ecbd5fe35b7d012050c9f73beeafd\";"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/avocado.jpg"],"names":[],"mappings":"yFAAA,OAAe,cAA0B","file":"6.build.js","sourcesContent":["export default __webpack_public_path__ + \"avocado.jpg?fde5a7dc9b165751fa1d79a2def88bd6\";"],"sourceRoot":""}

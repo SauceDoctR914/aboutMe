@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{59:function(p,d,e){"use strict";e.r(d),d.default=e.p+"vodkapapardelle.jpg?21616dc45fde97185a4c4632bd9c169e"}}]);
+//# sourceMappingURL=25.build.js.map

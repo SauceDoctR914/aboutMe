@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/heartrav.jpg"],"names":[],"mappings":"0FAAA,OAAe,cAA0B","file":"16.build.js","sourcesContent":["export default __webpack_public_path__ + \"heartrav.jpg?575e33f92dbc6de482c6f7db9cd48f1b\";"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/shortribpot.jpg"],"names":[],"mappings":"yFAAA,OAAe,cAA0B","file":"1.build.js","sourcesContent":["export default __webpack_public_path__ + \"shortribpot.jpg?b1b1da78c84633a2f7a81d238c344081\";"],"sourceRoot":""}

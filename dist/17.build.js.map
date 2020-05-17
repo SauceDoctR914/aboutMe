@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/israelisalad.jpg"],"names":[],"mappings":"0FAAA,OAAe,cAA0B","file":"17.build.js","sourcesContent":["export default __webpack_public_path__ + \"israelisalad.jpg?14a6d5372c35ada3514aceeccd8bf064\";"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{41:function(e,p,f){"use strict";f.r(p),p.default=f.p+"burgerNfries.jpg?4e18948beed0298e3150169ff1afae09"}}]);
+//# sourceMappingURL=7.build.js.map

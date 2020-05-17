@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/scampi.jpg"],"names":[],"mappings":"0FAAA,OAAe,cAA0B","file":"21.build.js","sourcesContent":["export default __webpack_public_path__ + \"scampi.jpg?482f6307ab9dc578094c24bc732e49cb\";"],"sourceRoot":""}

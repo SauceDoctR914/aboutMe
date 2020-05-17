@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/sausagepeaspot.jpg"],"names":[],"mappings":"0FAAA,OAAe,cAA0B","file":"20.build.js","sourcesContent":["export default __webpack_public_path__ + \"sausagepeaspot.jpg?deb31c538976b6794f3fa26d7921f928\";"],"sourceRoot":""}

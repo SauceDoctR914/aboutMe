@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/carbonara.jpg"],"names":[],"mappings":"yFAAA,OAAe,cAA0B","file":"9.build.js","sourcesContent":["export default __webpack_public_path__ + \"carbonara.jpg?3cbe6f20d340ed55d94b7c800ac39c12\";"],"sourceRoot":""}

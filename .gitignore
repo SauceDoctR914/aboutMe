@@ -10,4 +10,5 @@ webpack.config2.js
 *.ntvs*	
 *.njsproj	
 *.sln
+.env
 

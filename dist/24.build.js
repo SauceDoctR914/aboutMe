@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[24],{54:function(c,d,e){"use strict";e.r(d),d.default=e.p+"vodkagnocchi.jpg?2fa141382de524ed2b3becd4cf12a986"}}]);
+//# sourceMappingURL=24.build.js.map

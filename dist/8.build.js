@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{40:function(e,c,n){"use strict";n.r(c),c.default=n.p+"burgerbacon.jpg?9ace5f0f4d385bb810559e71ca25e623"}}]);
+//# sourceMappingURL=8.build.js.map

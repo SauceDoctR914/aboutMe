@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{49:function(a,c,d){"use strict";d.r(c),c.default=d.p+"israelisalad.jpg?14a6d5372c35ada3514aceeccd8bf064"}}]);
+//# sourceMappingURL=17.build.js.map

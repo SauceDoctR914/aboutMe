@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/burgerNfries.jpg"],"names":[],"mappings":"yFAAA,OAAe,cAA0B","file":"7.build.js","sourcesContent":["export default __webpack_public_path__ + \"burgerNfries.jpg?4e18948beed0298e3150169ff1afae09\";"],"sourceRoot":""}

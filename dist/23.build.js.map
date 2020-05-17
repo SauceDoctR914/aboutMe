@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/spread.jpg"],"names":[],"mappings":"0FAAA,OAAe,cAA0B","file":"23.build.js","sourcesContent":["export default __webpack_public_path__ + \"spread.jpg?7daf15bfda16b18c1c85c6c5e8def587\";"],"sourceRoot":""}

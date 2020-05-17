@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/chickenBalsamico.jpg"],"names":[],"mappings":"0FAAA,OAAe,cAA0B","file":"11.build.js","sourcesContent":["export default __webpack_public_path__ + \"chickenBalsamico.jpg?84a1c4b6103fc8509777474d447fd633\";"],"sourceRoot":""}

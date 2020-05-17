@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/OutdoorBurger.jpg"],"names":[],"mappings":"yFAAA,OAAe,cAA0B","file":"4.build.js","sourcesContent":["export default __webpack_public_path__ + \"OutdoorBurger.jpg?2c1dd51000a36479894387d5060a4b34\";"],"sourceRoot":""}

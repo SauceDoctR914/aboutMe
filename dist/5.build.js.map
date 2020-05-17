@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/agnolotti.jpg"],"names":[],"mappings":"yFAAA,OAAe,cAA0B","file":"5.build.js","sourcesContent":["export default __webpack_public_path__ + \"agnolotti.jpg?8fad7b77e5b36edeb176ec0b6625a2ad\";"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/guac.jpg"],"names":[],"mappings":"0FAAA,OAAe,cAA0B","file":"14.build.js","sourcesContent":["export default __webpack_public_path__ + \"guac.jpg?4e1610353cba2528a78766c5dfc15518\";"],"sourceRoot":""}

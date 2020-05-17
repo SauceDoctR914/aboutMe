@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/mac.jpg"],"names":[],"mappings":"0FAAA,OAAe,cAA0B","file":"18.build.js","sourcesContent":["export default __webpack_public_path__ + \"mac.jpg?a38062d9d618b206f04f3ba490992e54\";"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/gnoccinorma.jpg"],"names":[],"mappings":"0FAAA,OAAe,cAA0B","file":"13.build.js","sourcesContent":["export default __webpack_public_path__ + \"gnoccinorma.jpg?96465cbeafeb98f39e33709dd86ca016\";"],"sourceRoot":""}

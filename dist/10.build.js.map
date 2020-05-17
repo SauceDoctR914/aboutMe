@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/cauliflower.jpg"],"names":[],"mappings":"0FAAA,OAAe,cAA0B","file":"10.build.js","sourcesContent":["export default __webpack_public_path__ + \"cauliflower.jpg?fbddc1a48e621085f69df227691f8aa8\";"],"sourceRoot":""}

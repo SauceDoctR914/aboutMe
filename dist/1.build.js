@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{55:function(p,o,a){"use strict";a.r(o),o.default=a.p+"shortribpot.jpg?b1b1da78c84633a2f7a81d238c344081"}}]);
+//# sourceMappingURL=1.build.js.map

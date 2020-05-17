@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/food/shortrib.jpg"],"names":[],"mappings":"0FAAA,OAAe,cAA0B","file":"22.build.js","sourcesContent":["export default __webpack_public_path__ + \"shortrib.jpg?8b95eb886fb66ed5de1f7d98c551b164\";"],"sourceRoot":""}
